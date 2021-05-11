@@ -28,7 +28,7 @@
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RunManager">
-    <configuration name="travail_151" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="91">
+    <configuration name="Patho Config" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="91">
       <method v="2" />
     </configuration>
   </component>
@@ -63,6 +63,7 @@
       <workItem from="1620716799474" duration="65000" />
       <workItem from="1620716998400" duration="156000" />
       <workItem from="1620717263212" duration="59000" />
+      <workItem from="1620717360952" duration="1017000" />
     </task>
     <servers />
   </component>
@@ -70,25 +71,29 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620717492618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620717492618" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1620716863140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1620716863140" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1620717331476">
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1620717502880">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620717331476" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1620717331476">
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620717502880" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1620717502880">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620717331476" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1620717331476">
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620717502880" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1620717502880">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620717331476" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1620717331476">
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620717502880" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1620717502880">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620717331476" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620717502880" />
   </component>
 </project>

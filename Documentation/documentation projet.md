@@ -1,6 +1,6 @@
 Analyse Préliminaire
 =========
-Introduction :
+Introduction
 -----
 Le projet consiste à faire un site pour un cinéma multiplex « Pathos » codé en PHP/SQL les utilisateurs auront la possibilité de voir les prochaines séances et pourra également se connecter pour réserver une place.
 
@@ -43,7 +43,7 @@ Stratégie de test
 
 une personne externe suivra une liste de tests à effectuer pour vérifier chaques fonctionnalités
 
-Analyse des risque
+Analyse des risques
 ------
 
 - absences d'un camarade

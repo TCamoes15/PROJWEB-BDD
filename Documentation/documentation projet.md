@@ -41,7 +41,7 @@ Objectif
 Stratégie de test
 ----
 
-une personne externe suivra une liste de tests à effectuer pour vérifier chaques fonctionnalités
+le Product Owner testera certaines fonctionnalités à la demande des collaborateurs puis fournira une réponse du résultat
 
 Analyse des risques
 ------

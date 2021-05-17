@@ -16,33 +16,28 @@ require "controler/controler.php";
 if (isset($_GET['action'])) {
     $action = $_GET['action'];
     switch ($action) {
-        case 'Accueil' :
-            Accueil();
+        case 'home' :
+            home();
             break;
-        case 'Contact' :
-            Contact($_POST);
+        case 'login' :
+            login($_POST);
             break;
-        case 'LoginRegister' :
-            LoginRegister($_POST);
+        case 'register' :
+            register($_POST);
             break;
         case 'logout' :
             logout();
             break;
-        case 'Filmes' :
-            Filmes();
-            break;
-        case 'GestionDeCompte' :
-            GestionDeCompte();
-            break;
-        case 'Planning' :
-            Planning();
+        case 'snows' :
+            displaySnows();
             break;
         default :
-            Accueil();
+            home();
     }
 }
 else {
-    Accueil();
+    home();
 }
 
 ?>
+

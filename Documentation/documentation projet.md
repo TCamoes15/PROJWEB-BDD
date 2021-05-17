@@ -43,6 +43,16 @@ Stratégie de test
 
 le Product Owner testera certaines fonctionnalités à la demande des collaborateurs puis fournira une réponse du résultat
 
+## Journal de bord
+
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+
+
+
 Analyse des risques
 ------
 

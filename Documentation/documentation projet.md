@@ -1,5 +1,5 @@
 Analyse Préliminaire
-=========
+
 Introduction
 -----
 Le projet consiste à faire un site pour un cinéma multiplex « Pathos » codé en PHP/SQL les utilisateurs auront la possibilité de voir les prochaines séances et pourra également se connecter pour réserver une place.
@@ -10,7 +10,7 @@ Dans le cadre du CPNV nous avons un module Projet Web avec base de données où 
 
 ## Organisation
 
-### Pré-Projet:
+### Sprint 1:
 
 Jean : Scrum Master & maquettes
 
@@ -32,9 +32,9 @@ Objectif
 
 ## Planification initiale
 
-| Semaines 1-3 | semaines 4-5 | Semaines 6-7 | Semaine 8    |
-| ------------ | ------------ | ------------ | ------------ |
-| Pré-Projet   | Front-end    | Backend      | Présentation |
+| Semaines 1-3 | semaines 4-5 | Semaines 6-7 | Semaine 8 |
+| ------------ | ------------ | ------------ | --------- |
+| Sprint 1     | Sprint 2     | Sprint 3     | Sprint 4  |
 
 
 
@@ -42,6 +42,16 @@ Stratégie de test
 ----
 
 le Product Owner testera certaines fonctionnalités à la demande des collaborateurs puis fournira une réponse du résultat
+
+## Journal de bord
+
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+
+
 
 Analyse des risques
 ------

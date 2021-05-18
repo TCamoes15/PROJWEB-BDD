@@ -8,8 +8,8 @@
 
 
 
-    <div class="headerItems">
-        <img src="view/content/image/PathoLogo.png" class="Logo">    Patho
+    <div class="headerTitle">
+        <img src="view/content/image/PathoLogo.png" class="Logo">  <span class="TitleHeaderSize"> Patho </span>
     </div>
 
     <div class="headerItems">

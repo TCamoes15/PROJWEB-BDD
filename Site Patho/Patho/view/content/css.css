@@ -1,8 +1,22 @@
 .header{
+   position: fixed;
+   background-color: black;
+   height: 12%;
+   width: 100%;
+
+   display: grid;
+   grid-template-columns: 10% 10% 15% 15% 20% 15% 15%
 
 }
+
 .Logo{
-   height: 12%;
-
-
+   height: 10%;
+   position: fixed;
+   left: 2%;
+   top: 1.7%;
+}
+.headerTitle{
+   color: white;
+   text-align: center;
+   
 }

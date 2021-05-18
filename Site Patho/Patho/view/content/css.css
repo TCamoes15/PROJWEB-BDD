@@ -1,6 +1,6 @@
 .header{
    position: fixed;
-   background-color: black;
+   background-color: #CBDBD7;
    height: 13.5%;
    width: 100%;
    top: 0%;
@@ -18,14 +18,14 @@
    top: 1.7%;
 }
 .headerItems{
-   color: white;
+   color:  #193441;
    display: flex;
    align-items: center;
    justify-content: center;
-   border: 1px solid #ccc;
+   border: 1px solid #FCFFF5;
 
 }
 
 .gabaritBackground{
-   background-color: pu;
+   background-color: #193441;
 }

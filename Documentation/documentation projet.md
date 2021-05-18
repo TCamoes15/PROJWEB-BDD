@@ -45,10 +45,10 @@ le Product Owner testera certaines fonctionnalités à la demande des collaborat
 
 ## Journal de bord
 
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
+|  Semaine 1  | Semaine 2      |  Semaine 3    |
+| ----        | ---- | ---- |
+|  MCD    | MLD     |  Début du projet (programation)     |
+|  Document d'Analyse    | Maquettes     |      |
 |      |      |      |
 
 

@@ -1,11 +1,13 @@
 .header{
    position: fixed;
    background-color: black;
-   height: 12%;
+   height: 13.5%;
    width: 100%;
+   top: 0%;
+   left: 0%;
 
    display: grid;
-   grid-template-columns: 10% 10% 15% 15% 20% 15% 15%
+   grid-template-columns:  10% 17% 17% 20% 18% 18%
 
 }
 
@@ -15,8 +17,15 @@
    left: 2%;
    top: 1.7%;
 }
-.headerTitle{
+.headerItems{
    color: white;
-   text-align: center;
-   
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border: 1px solid #ccc;
+
+}
+
+.gabaritBackground{
+   background-color: pu;
 }

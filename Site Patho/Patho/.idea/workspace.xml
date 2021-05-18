@@ -23,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/content/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/view/content/css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/gabarit.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/gabarit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../site exemple/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../site exemple/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="cb5ab63f-de9f-4c7c-9d02-36f10940d8d5" name="new Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,11 +66,11 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GitRepository\PROJWEB-BDD\Site Patho\Patho\view\content\image" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitRepository\PROJWEB-BDD\Site Patho\Patho\controler" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitRepository\PROJWEB-BDD\Site Patho\Patho\view\content\image" />
     </key>
   </component>
   <component name="RunManager">
@@ -95,6 +94,7 @@
       <updated>1621256217888</updated>
       <workItem from="1621256222063" duration="4178000" />
       <workItem from="1621320116825" duration="5410000" />
+      <workItem from="1621350261871" duration="2916000" />
     </task>
     <servers />
   </component>
@@ -122,9 +122,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621256446336" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1621320422838">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1621350297242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621350297242" />
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621320422838" />
     <state width="1175" height="275" key="GridCell.Tab.0.bottom" timestamp="1621327486540">
       <screen x="0" y="0" width="1920" height="1040" />

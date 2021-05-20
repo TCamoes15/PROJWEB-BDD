@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6b2ab00-b284-48bf-95b3-e5b3b6546a1d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Documentation/documentation projet.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/documentation projet.md" afterDir="false" />
-    </list>
+    <list default="true" id="f6b2ab00-b284-48bf-95b3-e5b3b6546a1d" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Projet-WEB/SiteJeanNat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Patho" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -93,7 +91,7 @@
       <workItem from="1621251449830" duration="836000" />
       <workItem from="1621254909826" duration="1179000" />
       <workItem from="1621256278092" duration="3154000" />
-      <workItem from="1621318798811" duration="286000" />
+      <workItem from="1621318798811" duration="1055000" />
     </task>
     <servers />
   </component>
@@ -121,10 +119,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621255770931" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1621259829112">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1621320110927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621259829112" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621320110927" />
     <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1621256120230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

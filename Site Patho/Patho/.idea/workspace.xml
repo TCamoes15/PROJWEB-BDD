@@ -20,392 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59e1e64e-dfc1-4fb0-be90-d22e5c8a298c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Patho.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/Accueil.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/Contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/Filmes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/GestionDeCompte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/LoginRegister.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/Planning.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/content/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/content/image/PathoLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../site exemple/.idea/Projet Patho.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Documentation/MLD Patho.mwb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Documentation/MLD Patho.mwb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Projet Patho.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkPhpConfig.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controler/controler.php" beforeDir="false" afterPath="$PROJECT_DIR$/controler/controler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgIntroReadme.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgMySQLResult.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgPhpStromResult.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/dbconnector.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/snowsManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/usersManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/snowScriptStart.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/snows1.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/users.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_psw.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/2-column.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/3-column.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/contact.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/css/bootstrap-responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/css/docs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/font/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/font/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/font/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/font/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/font/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/img/biz-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/img/bs-docs-masthead-pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/img/glyphicons-halflings-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/img/glyphicons-halflings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/img/grid-baseline-20px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-affix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-alert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-collapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-dropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-popover.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-scrollspy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-tab.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-tooltip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-transition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap-typeahead.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/google-code-prettify/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/google-code-prettify/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/holder/holder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/assets/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/credits.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/documentation/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/email/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/email/validation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/full.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/2048.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/500px-33918005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/B101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/B101_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/B126.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/B126_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/B327.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/B327_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/HTML5_1Color_Black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/HTML5_3D_Effects_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/HTML5_Connectivity_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/HTML5_Device_Access_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/HTML5_Multimedia_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/HTML5_Offline_Storage_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/HTML5_Performance_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/HTML5_Semantics_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/HTML5_Styling_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/K067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/K067_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/K266.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/K266_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/K409.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/K409_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/LogoRentASnow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/N100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/N100_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/N754.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/N754_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/P067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/P067_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/P165.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/P165_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/add.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/building.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/css3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/delete.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/home-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/html5-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/icone-panier.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/modif.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/modif.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/services-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/images/windmill.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/portfolio/300x200.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/portfolio/preview-300.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/css/bootstrap-responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/css/bootstrap-responsive.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/img/glyphicons-halflings-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/img/glyphicons-halflings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/css/camera.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/blank.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/camera-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/camera_skins.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/patterns/overlay1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/patterns/overlay10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/patterns/overlay2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/patterns/overlay3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/patterns/overlay4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/patterns/overlay5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/patterns/overlay6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/patterns/overlay7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/patterns/overlay8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/images/patterns/overlay9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/scripts/camera.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/camera/scripts/jquery.mobile.customized.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/carousel/jquery.carouFredSel-6.2.0-packed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/carousel/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/default.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/easing/jquery.easing.1.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/css/font-awesome-ie7.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/css/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/museo_slab_300-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/museo_slab_300-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/museo_slab_500-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/museo_slab_500-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/proximanova-sbold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/proximanova-sbold-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/proximanova-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/fontawesome/font/proximanova-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/general/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/general/fonts/general_foundicons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/general/fonts/general_foundicons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/general/fonts/general_foundicons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/general/fonts/general_foundicons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/general/stylesheets/general_foundicons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/general/stylesheets/general_foundicons_ie7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/social/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/social/fonts/social_foundicons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/social/fonts/social_foundicons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/social/fonts/social_foundicons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/social/fonts/social_foundicons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/social/stylesheets/social_foundicons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/icons/social/stylesheets/social_foundicons_ie7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/jquery-1.7.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/jquery-1.8.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/css/prettyPhoto.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/fullscreen/high.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/fullscreen/huge.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/fullscreen/wide.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_rounded/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_square/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_square/contentPattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_square/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_square/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/dark_square/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/default/default_thumb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/default/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/default/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/default/sprite_next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/default/sprite_prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/default/sprite_x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/default/sprite_y.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/facebook/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/facebook/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/facebook/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/light_rounded/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/light_rounded/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/light_rounded/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/light_square/btnNext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/light_square/default_thumbnail.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/light_square/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/images/prettyPhoto/light_square/sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/prettyphoto/js/jquery.prettyPhoto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/quicksand/README.textile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/quicksand/jquery-animate-css-rotate-scale.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/quicksand/jquery-css-transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/quicksand/jquery.quicksand.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/quicksand/jquery.quicksand.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/quicksand/jquery.quicksand122.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/quicksand/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/jquery.vegas.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/jquery.vegas.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/vegas/overlays/15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/webfont.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/wookmark/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/wookmark/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/wookmark/images/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/wookmark/js/jquery.wookmark.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/data/flickr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/data/flickr.source.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/data/picasa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/data/picasa.source.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/data/youtube.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/data/youtube.source.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/empty.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/help_panel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/left - Copy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/left.pdn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/left1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/left_empty.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/left_eng.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/left_prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/popup_ajax_loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/right - Copy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/right.pdn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/right1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/right_empty.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/right_eng.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/images/sprites.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/install.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/jquery.yoxthumbs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/jquery.yoxview-2.21-bak.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/jquery.yoxview-2.21.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/jquery.yoxview-2.21.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/dk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/gr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/ie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/ir.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/mk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/pt-br.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/sl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/ua.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/zh-cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/lang/zh-tw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/skins/top_menu/sprites.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/skins/top_menu/yoxview.top_menu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/skins/top_menu/yoxview.top_menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/yox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/yoxview-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/yoxview-nojquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/scripts/yoxview/yoxview.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/services.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/slider-images/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/slider-images/1_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/slider-images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/slider-images/2_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/slider-images/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/slider-images/4_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/slider-images/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/chruch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/dark_mosaic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/dark_mosaic_@2X.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/escheresque_ste_@2X.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/extra_clean_paper_@2X.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/light_honeycomb_@2X.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/norwegian_rose.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/norwegian_rose_@2X.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/scribble_light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/small-crackle-bright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/small-crackle-bright_@2X.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/soft_kill.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/soft_kill_@2X.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/tactile_noise.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/tactile_noise_@2X.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/thumbs/image.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/thumbs/image1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/thumbs/image2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/thumbs/image3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/thumbs/image4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/thumbs/image5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/thumbs/image6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/thumbs/image7.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/thumbs/image8.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/thumbs/orange_350.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/thumbs/orange_800.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/triangles.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/triangles_@2X.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/white_wall_hash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/wood_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/styles/xv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/content/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/view/content/css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/gabarit.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/gabarit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/register.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/snows.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/snowsSeller.php" beforeDir="false" />
     </list>
     <list id="cb5ab63f-de9f-4c7c-9d02-36f10940d8d5" name="new Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -438,7 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/view/content/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Projet-WEB/SiteJeanNat" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -449,11 +66,11 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GitRepository\PROJWEB-BDD\Site Patho\Patho\view\content\image" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitRepository\PROJWEB-BDD\Site Patho\Patho\controler" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitRepository\PROJWEB-BDD\Site Patho\Patho\view\content\image" />
     </key>
   </component>
   <component name="RunManager">
@@ -476,6 +93,8 @@
       <option name="presentableId" value="Default" />
       <updated>1621256217888</updated>
       <workItem from="1621256222063" duration="4178000" />
+      <workItem from="1621320116825" duration="5410000" />
+      <workItem from="1621350261871" duration="7566000" />
     </task>
     <servers />
   </component>
@@ -492,6 +111,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="679" y="71" width="588" height="898" key="#PHP" timestamp="1621256443547">
@@ -502,26 +122,31 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621256446336" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1621256271003">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1621357860275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621256271003" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1621261043075">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357860275" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621320422838" />
+    <state width="1855" height="272" key="GridCell.Tab.0.bottom" timestamp="1621357633206">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621261043075" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1621261043075">
+    <state width="1855" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357633206" />
+    <state width="1175" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621327486540" />
+    <state width="1855" height="272" key="GridCell.Tab.0.center" timestamp="1621357633204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621261043075" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1621261043075">
+    <state width="1855" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357633204" />
+    <state width="1175" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621327486540" />
+    <state width="1855" height="272" key="GridCell.Tab.0.left" timestamp="1621357633204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621261043075" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1621261043075">
+    <state width="1855" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357633204" />
+    <state width="1175" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621327486540" />
+    <state width="1855" height="272" key="GridCell.Tab.0.right" timestamp="1621357633205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621261043075" />
+    <state width="1855" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357633205" />
+    <state width="1175" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621327486540" />
     <state x="794" y="439" key="NewPhpFileDialog" timestamp="1621258430402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -38,6 +38,7 @@
 
 </body>
 
+<?=$content; ?>
 
 <link rel="stylesheet" href="view/content/gabarit.css" />
 <link rel="stylesheet" href="view/content/Accueil.css" />

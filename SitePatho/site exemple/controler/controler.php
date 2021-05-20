@@ -1,13 +1,5 @@
 <?php
-/**
- * Author   : nicolas.glassey@cpnv.ch
- * Project  : 151_2019_ForStudents
- * Created  : 05.02.2019 - 18:40
- *
- * Last update :    [01.12.2018 author]
- *                  [add $logName in function setFullPath]
- * Git source  :    [link]
- */
+
 
 function home(){
     $_GET['action'] = "home";
@@ -91,7 +83,7 @@ function logout(){
 }
 
 function displaySnows(){
-    require_once("model/snowsManager.php");
+    require_once("model/DataManager.php");
     $snows=getSnows();
     //solution sans isset (si non loggé, @$_SESSION['userType'] renvoie false)
     if (@$_SESSION['userType']==2){

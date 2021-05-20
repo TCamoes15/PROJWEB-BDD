@@ -2,7 +2,7 @@
 
 ?>
 
-
+    <title>Compte</title>
 
 <?php
 

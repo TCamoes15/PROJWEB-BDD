@@ -1,7 +1,8 @@
 <?php
+
 ?>
 
-
+    <title>Films</title>
 
 <?php
 

@@ -1,8 +1,7 @@
 <?php
-
 ?>
 
-
+    <title>Planning</title>
 
 <?php
 

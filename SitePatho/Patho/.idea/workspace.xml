@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59e1e64e-dfc1-4fb0-be90-d22e5c8a298c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/view/content/Accueil.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/content/TrailerVideo/TrailerStarWars.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/view/content/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controler/controler.php" beforeDir="false" afterPath="$PROJECT_DIR$/controler/controler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/Accueil.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/Accueil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/Filmes.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/Films.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/content/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/view/content/gabarit.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/gabarit.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/gabarit.php" afterDir="false" />
     </list>
     <list id="cb5ab63f-de9f-4c7c-9d02-36f10940d8d5" name="new Changelist" comment="" />
@@ -55,7 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Projet-WEB/SiteJeanNat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/view/content/TralierVideo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -63,13 +69,14 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitRepository\PROJWEB-BDD\Site Patho\Patho\controler" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\github Repository\PROJWEB-BDD\Site Patho\Patho\view\content\TralierVideo" />
       <recent name="C:\GitRepository\PROJWEB-BDD\Site Patho\Patho\view\content\image" />
     </key>
   </component>
@@ -94,7 +101,7 @@
       <updated>1621256217888</updated>
       <workItem from="1621256222063" duration="4178000" />
       <workItem from="1621320116825" duration="5410000" />
-      <workItem from="1621350261871" duration="7566000" />
+      <workItem from="1621350261871" duration="22593000" />
     </task>
     <servers />
   </component>
@@ -122,42 +129,55 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621256446336" />
+    <state x="697" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621365854647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621365854647" />
+    <state x="627" y="297" key="EditFileWatcherDialog" timestamp="1621374738784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="297" key="EditFileWatcherDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621374738784" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1621357860275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357860275" />
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621320422838" />
-    <state width="1855" height="272" key="GridCell.Tab.0.bottom" timestamp="1621357633206">
+    <state width="1855" height="272" key="GridCell.Tab.0.bottom" timestamp="1621378398938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357633206" />
+    <state width="1855" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621378398938" />
     <state width="1175" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621327486540" />
-    <state width="1855" height="272" key="GridCell.Tab.0.center" timestamp="1621357633204">
+    <state width="1855" height="272" key="GridCell.Tab.0.center" timestamp="1621378398938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357633204" />
+    <state width="1855" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621378398938" />
     <state width="1175" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621327486540" />
-    <state width="1855" height="272" key="GridCell.Tab.0.left" timestamp="1621357633204">
+    <state width="1855" height="272" key="GridCell.Tab.0.left" timestamp="1621378398938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357633204" />
+    <state width="1855" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621378398938" />
     <state width="1175" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621327486540" />
-    <state width="1855" height="272" key="GridCell.Tab.0.right" timestamp="1621357633205">
+    <state width="1855" height="272" key="GridCell.Tab.0.right" timestamp="1621378398938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1855" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357633205" />
+    <state width="1855" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621378398938" />
     <state width="1175" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621327486540" />
     <state x="794" y="439" key="NewPhpFileDialog" timestamp="1621258430402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="439" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621258430402" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1621258457187">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1621374860183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621374860183" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621258457187" />
     <state x="807" y="427" key="VCS.ChangelistChooser" timestamp="1621257979307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="807" y="427" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621257979307" />
+    <state x="751" y="377" width="495" height="389" key="scopes" timestamp="1621374737663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="377" width="495" height="389" key="scopes/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621374737663" />
   </component>
 </project>

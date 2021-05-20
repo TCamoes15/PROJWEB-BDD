@@ -20,16 +20,16 @@ if (isset($_GET['action'])) {
             Accueil();
             break;
         case 'Contact' :
-            Contact($_POST);
+            Contact();
             break;
         case 'LoginRegister' :
-            LoginRegister($_POST);
+            LoginRegister();
             break;
         case 'logout' :
             logout();
             break;
-        case 'Filmes' :
-            Filmes();
+        case 'Films' :
+            Films();
             break;
         case 'GestionDeCompte' :
             GestionDeCompte();

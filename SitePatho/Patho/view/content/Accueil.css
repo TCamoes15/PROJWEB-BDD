@@ -1,0 +1,20 @@
+.myVideo {
+    position: relative;
+    left: -1%;
+    right: -1%;
+    z-index: -1;
+    filter : brightness(0.25) ;
+    width: 102%;
+
+}
+
+
+
+/* Projet pour ajouter un patern sur la video
+.dotm-overlay {
+    background: url(http://s14.directupload.net/images/111129/44ga9qid.png);
+    width: 1000px;
+    height:1000px;
+
+}
+*/

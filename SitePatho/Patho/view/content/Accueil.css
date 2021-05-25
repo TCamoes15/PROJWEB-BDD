@@ -5,7 +5,7 @@
     z-index: -1;
     filter : brightness(0.25) ;
     width: 102%;
-
+    top: -10%;
 }
 
 
@@ -37,11 +37,22 @@
     border-radius: 0% 50% 50% 0%;
 }
 
-.texteSurImage{
-    position: relative;
-    top : 350px;
-    left: 50%;
+.texteSurImageUn{
+    position: absolute;
+    top : 36%;
+    left : 30%;
     color: #CBDBD7;
+    font-size : 70px;
+    z-index: 667;
+}
+
+.texteSurImageDeux{
+    position: absolute;
+    top :45%;
+    left : 37%;
+    color: #CBDBD7;
+    font-size : 50px;
+    z-index: 677;
 }
 
 

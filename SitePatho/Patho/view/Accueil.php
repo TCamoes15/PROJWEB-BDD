@@ -10,10 +10,15 @@ ob_start();
 <body>
 
 <div>
-    <span class="texteSurImage ">Envie de voir le meilleur ? <br> Cliquez juste en bas </span>
+
+    <span class="texteSurImageUn ">Envie de voir le meilleur ?<br> </span>
+    <span class="texteSurImageDeux ">Cliquez juste en bas </span>
     <video autoplay muted loop class="myVideo">
+
         <source src="view/content/image/TrailerVideo/TrailerStarWars.mp4" type="video/mp4"  >
     </video>
+
+
 </div>
 
 <div class="filmsPageAccueil">

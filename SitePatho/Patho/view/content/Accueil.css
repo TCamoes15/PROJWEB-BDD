@@ -5,7 +5,7 @@
     z-index: -1;
     filter : brightness(0.25) ;
     width: 102%;
-
+    top: -10%;
 }
 
 
@@ -28,13 +28,43 @@
 
 .LeftElementGirdAccueil{
     background-color: #CBDBD7;
-    border-radius: 30% 0% 0% 30%;
-    padding: 8%;
+    border-radius: 50% 0% 0% 50%;
+    padding: 10%;
   }
 
 .RightElementGirdAccueil{
     background-color: #CBDBD7;
-    border-radius: 0% 30% 30% 0%;
+    border-radius: 0% 50% 50% 0%;
+}
+
+.texteSurImageUn{
+    position: absolute;
+    top : 36%;
+    left : 30%;
+    color: #CBDBD7;
+    font-size : 70px;
+    z-index: 667;
+}
+
+.texteSurImageDeux{
+    position: absolute;
+    top :45%;
+    left : 37%;
+    color: #CBDBD7;
+    font-size : 50px;
+    z-index: 677;
+}
+
+.logoPlanningAccueil{
+    z-index: 665;
+    background-color: #CBDBD7;
+    position: absolute;
+    top : 55%;
+    left : 48%;
+    width: 2.5%;
+    height: 5%;
+    border-radius: 50%;
+    justify-content: center;
 }
 
 

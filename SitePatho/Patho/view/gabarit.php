@@ -20,15 +20,15 @@
         Films
     </a>
 
-    <a class="headerItems" href=index.php?action=planning style="text-decoration: none">
+    <a class="headerItems" href=index.php?action=Planning style="text-decoration: none">
         planning
     </a>
 
-    <a class="headerItems" href=index.php?action=contact style="text-decoration: none">
+    <a class="headerItems" href=index.php?action=Contact style="text-decoration: none">
         contact
     </a>
 
-    <a class="headerItems" href=index.php?action=Login/Register style="text-decoration: none">
+    <a class="headerItems" href=index.php?action=LoginRegister style="text-decoration: none">
         Login/Register
     </a>
 

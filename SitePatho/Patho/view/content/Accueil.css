@@ -8,6 +8,8 @@
 
 }
 
+
+
 .filmsPageAccueil{
 
     display: grid;
@@ -20,7 +22,8 @@
     position: relative;
     left: 13%;
     bottom: 5%;
-    top: 5%
+    top: 10px;
+
 }
 
 

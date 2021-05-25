@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59e1e64e-dfc1-4fb0-be90-d22e5c8a298c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/view/GestionDeCompte.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/GestionDeCompte.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Planning.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/Planning.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/content/Accueil.css" beforeDir="false" afterPath="$PROJECT_DIR$/view/content/Accueil.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/gabarit.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/gabarit.php" afterDir="false" />
     </list>
     <list id="cb5ab63f-de9f-4c7c-9d02-36f10940d8d5" name="new Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,7 @@
       <workItem from="1621469177869" duration="7713000" />
       <workItem from="1621519312443" duration="1141000" />
       <workItem from="1621520483857" duration="2126000" />
-      <workItem from="1621922703769" duration="309000" />
+      <workItem from="1621922703769" duration="1684000" />
     </task>
     <servers />
   </component>
@@ -139,26 +140,26 @@
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357860275" />
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621522041985" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1621522611946">
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1621922795580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621478768316" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621522611946" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1621522611946">
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621922795580" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1621922795580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621478768316" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621522611946" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1621522611946">
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621922795580" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1621922795579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621478768316" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621522611946" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1621522611946">
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621922795579" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1621922795580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621478768316" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621522611946" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621922795580" />
     <state x="794" y="439" key="NewPhpFileDialog" timestamp="1621258430402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

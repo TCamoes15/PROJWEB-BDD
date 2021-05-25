@@ -3,27 +3,25 @@
 
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-template-rows: 300px 300px 300px ;
+    grid-template-rows: 300px 300px 300px 300px 300px 300px 300px;
     row-gap: 30px;
 
-
-    width: 75%;
-    position: relative;
-    left: 13%;
-    bottom: 5%;
+    position: absolute;
     top: 10%;
+    width: 75%;
+    left : 11%;
 
 }
 
 .LeftElementGirdFilms{
     background-color: #CBDBD7;
-    border-radius: 30% 0% 0% 30%;
-    padding: 8%;
+    border-radius: 50% 0% 0% 50%;
+    padding: 10%;
 }
 
 .RightElementGirdFilms{
     background-color: #CBDBD7;
-    border-radius: 0% 30% 30% 0%;
+    border-radius: 0% 50% 50% 0%;
 }
 
 

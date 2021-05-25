@@ -1,0 +1,16 @@
+
+.FormulairePageLogin{
+    display: flex;
+    background-color: #CBDBD7;
+    position: absolute;
+    top : 15%;
+    left : 25%;
+    width: 50%;
+    height: 75%;
+
+
+}
+
+.ConnexionTitleLogin{
+
+}

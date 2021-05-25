@@ -31,6 +31,41 @@ ob_clean();
             description<br><br><br><br><br><br><br><br>
         </div>
 
+        <div class ="LeftElementGirdFilms">
+            Film 3<br><br><br><br><br><br><br><br>
+        </div>
+
+        <div  class ="RightElementGirdFilms">
+            description<br><br><br><br><br><br><br><br>
+        </div>
+
+        <div class ="LeftElementGirdFilms">
+            Film 3<br><br><br><br><br><br><br><br>
+        </div>
+
+        <div  class ="RightElementGirdFilms">
+            description<br><br><br><br><br><br><br><br>
+        </div>
+
+        <div class ="LeftElementGirdFilms">
+            Film 3<br><br><br><br><br><br><br><br>
+        </div>
+
+        <div  class ="RightElementGirdFilms">
+            description<br><br><br><br><br><br><br><br>
+        </div>
+
+        <div class ="LeftElementGirdFilms">
+            Film 3<br><br><br><br><br><br><br><br>
+        </div>
+
+        <div  class ="RightElementGirdFilms">
+            description<br><br><br><br><br><br><br><br>
+        </div>
+
+        <div>
+            
+        </div>
 
     </div>
 

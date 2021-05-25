@@ -37,4 +37,11 @@
     border-radius: 0% 50% 50% 0%;
 }
 
+.texteSurImage{
+    position: relative;
+    top : 350px;
+    left: 50%;
+    color: #CBDBD7;
+}
+
 

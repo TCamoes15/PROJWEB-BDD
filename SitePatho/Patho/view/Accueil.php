@@ -18,22 +18,27 @@ ob_start();
 <div class="filmsPageAccueil">
 
 
-<div>
+    <div class ="LeftElementGirdAccueil">
     ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
-</div>
-<div>
+    </div>
+
+    <div class ="RightElementGirdAccueil">
     ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
-</div>
-<div>
+    </div>
+
+    <div class ="LeftElementGirdAccueil">
     ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
-</div>
-<div>
+    </div>
+
+    <div class ="RightElementGirdAccueil">
     ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
-</div>
-    <div>
+    </div>
+
+    <div class ="LeftElementGirdAccueil">
         ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
     </div>
-    <div>
+
+    <div  class ="RightElementGirdAccueil">
         ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
     </div>
 

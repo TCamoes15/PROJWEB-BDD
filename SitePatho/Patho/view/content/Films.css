@@ -4,10 +4,26 @@
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: 300px 300px 300px ;
+    row-gap: 30px;
 
-    background-color: #CBDBD7;
 
-    position: absolute;
-
+    width: 75%;
+    position: relative;
+    left: 13%;
+    bottom: 5%;
+    top: 10%;
 
 }
+
+.LeftElementGirdFilms{
+    background-color: #CBDBD7;
+    border-radius: 30% 0% 0% 30%;
+    padding: 8%;
+}
+
+.RightElementGirdFilms{
+    background-color: #CBDBD7;
+    border-radius: 0% 30% 30% 0%;
+}
+
+

@@ -1,3 +1,4 @@
+
 .filmsPage{
 
     display: grid;
@@ -6,7 +7,7 @@
 
     background-color: #CBDBD7;
 
-    position: relative;
-    top: 10%;
+    position: absolute;
+
 
 }

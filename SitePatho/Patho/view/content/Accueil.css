@@ -28,13 +28,13 @@
 
 .LeftElementGirdAccueil{
     background-color: #CBDBD7;
-    border-radius: 30% 0% 0% 30%;
-    padding: 8%;
+    border-radius: 50% 0% 0% 50%;
+    padding: 10%;
   }
 
 .RightElementGirdAccueil{
     background-color: #CBDBD7;
-    border-radius: 0% 30% 30% 0%;
+    border-radius: 0% 50% 50% 0%;
 }
 
 

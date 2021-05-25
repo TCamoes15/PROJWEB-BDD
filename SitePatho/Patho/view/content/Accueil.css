@@ -8,19 +8,30 @@
 
 }
 
+
+
 .filmsPageAccueil{
 
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: 300px 300px 300px ;
 
+    row-gap: 30px;
 
-    background-color: #CBDBD7;
     width: 75%;
     position: relative;
     left: 13%;
     bottom: 5%;
-    top: 5%
+    top: 40px;
+
+}
+
+.LeftElementGirdAccueil{
+    background-color: #CBDBD7;
+  }
+
+.RightElementGirdAccueil{
+    background-color: #CBDBD7;
 }
 
 

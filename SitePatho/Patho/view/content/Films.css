@@ -1,0 +1,12 @@
+.filmsPage{
+
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 300px 300px 300px ;
+
+    background-color: #CBDBD7;
+
+    position: relative;
+    top: 10%;
+
+}

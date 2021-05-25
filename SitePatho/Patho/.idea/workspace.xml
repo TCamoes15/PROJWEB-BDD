@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59e1e64e-dfc1-4fb0-be90-d22e5c8a298c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/view/content/Films.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/content/gabarit.css" beforeDir="false" afterPath="$PROJECT_DIR$/view/content/gabarit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/Films.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/Films.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/gabarit.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/gabarit.php" afterDir="false" />
     </list>
     <list id="cb5ab63f-de9f-4c7c-9d02-36f10940d8d5" name="new Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +76,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$" port="808">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$" port="8808">
       <method v="2" />
     </configuration>
     <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="808">
@@ -98,6 +100,8 @@
       <workItem from="1621469177869" duration="7713000" />
       <workItem from="1621519312443" duration="1141000" />
       <workItem from="1621520483857" duration="2126000" />
+      <workItem from="1621922995536" duration="727000" />
+      <workItem from="1621923741504" duration="2553000" />
     </task>
     <servers />
   </component>
@@ -121,10 +125,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="679" y="71" width="588" height="898" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1621256443547" />
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621256446336">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621923107179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621256446336" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621923107179" />
     <state x="697" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621365854647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -138,26 +142,26 @@
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621357860275" />
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621522041985" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1621522611946">
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1621923728056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621478768316" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621522611946" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1621522611946">
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621923728056" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center" timestamp="1621923728056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621478768316" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621522611946" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1621522611946">
+    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621923728056" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left" timestamp="1621923728056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621478768316" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621522611946" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1621522611946">
+    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621923728056" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right" timestamp="1621923728056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621478768316" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621522611946" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621923728056" />
     <state x="794" y="439" key="NewPhpFileDialog" timestamp="1621258430402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

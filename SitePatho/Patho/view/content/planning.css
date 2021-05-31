@@ -1,1 +1,17 @@
 
+.PlanningGird{
+
+    background-color: #CBDBD7;
+
+    position: absolute;
+    top : 13%;
+    left: 15%;
+    width: 70%;
+    height: 83.5%;
+
+    display: grid;
+    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    grid-template-rows: 8% 23% 23% 23% 23% ;
+    padding: 20px;
+
+}

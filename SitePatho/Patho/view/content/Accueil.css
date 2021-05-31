@@ -28,13 +28,13 @@
 
 .LeftElementGirdAccueil{
     background-color: #CBDBD7;
-    border-radius: 50% 0% 0% 50%;
+
     padding: 10%;
   }
 
 .RightElementGirdAccueil{
     background-color: #CBDBD7;
-    border-radius: 0% 50% 50% 0%;
+
 }
 
 .texteSurImageUn{
@@ -57,7 +57,7 @@
 
 .logoPlanningAccueil{
     z-index: 665;
-    background-color: #CBDBD7;
+    background-color: black;
     position: absolute;
     top : 55%;
     left : 48%;

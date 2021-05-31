@@ -3,10 +3,10 @@
 
     background-color: #CBDBD7;
     position: absolute;
-    top : 15%;
+    top : 13%;
     left : 25%;
     width: 50%;
-    height: 80.5%;
+    height: 83.5%;
 }
 
 
@@ -16,7 +16,7 @@
 .formLogin{
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-template-rows: 100px 50px 50px 50px;
+    grid-template-rows: 100px 50px 50px 50px ;
     grid-row-gap: 10px;
     padding: 10px;
 
@@ -41,7 +41,7 @@
 .formRegister{
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-template-rows: 100px 50px 50px 50px;
+    grid-template-rows: 100px 50px 50px 50px 50px 50px;
     grid-row-gap: 10px;
     padding: 10px;
 

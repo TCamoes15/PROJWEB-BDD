@@ -26,7 +26,7 @@ ob_start();
             <h4 > Mot-de-passe</h4>
             <input type="search" >
             <h4 > Numéro de Téléphone</h4>
-            <input >
+            <input type="search">
             <h4 > Nom</h4>
             <input type="search" >
             <h4>  Prénom</h4>

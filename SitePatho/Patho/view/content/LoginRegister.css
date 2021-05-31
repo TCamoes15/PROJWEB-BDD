@@ -1,10 +1,5 @@
 
 .FormulairePageLogin{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
 
     background-color: #CBDBD7;
     position: absolute;
@@ -12,20 +7,32 @@
     left : 25%;
     width: 50%;
     height: 75%;
-
-
-
 }
 
-.ConnexionTitleLogin{
+.formLogin{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 300px 300px ;
+}
 
+.formRegister{
+    display: grid;
+}
+.ConnexionTitleLogin{
+ 
 }
 
 .InscriptionTitleLogin{
 
 }
 
+.LoginRegisterbutton{
 
+}
+
+.LoginRegisterContentTexte{
+
+}
 
 
 
@@ -35,3 +42,25 @@ input[type=search] {
 
     -webkit-appearance: none;
 }
+
+.buttonLoginRegisterValidation {
+    background-color: #4CAF50; /* Green */
+
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+    border: 2px solid #4CAF50;
+    transition-duration: 0.4s;
+}
+.buttonLoginRegisterValidation:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+

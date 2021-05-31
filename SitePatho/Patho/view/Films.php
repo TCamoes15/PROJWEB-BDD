@@ -8,59 +8,59 @@ ob_clean();
 
 
         <div class ="LeftElementGirdFilms">
-            Film 1<br><br><br><br><br><br><br><br>
+            30 JOURS MAX<br><br><br><br><br><br><br><br>
         </div>
 
         <div class ="RightElementGirdFilms">
-            description<br><br><br><br><br><br><br><br>
+            Croyant que ses jours sont comptés, un policer décide de jouer le tout pour le tout.<br><br><br><br><br><br><br><br>
         </div>
 
         <div class ="LeftElementGirdFilms">
-            Film 2<br><br><br><br><br><br><br><br>
+            ADIEU LES CONS<br><br><br><br><br><br><br><br>
         </div>
 
         <div class ="RightElementGirdFilms">
-            description<br><br><br><br><br><br><br><br>
+            Gravement malade, une quadragénaire décide de retrouver l’enfant qu’elle a dû abandonner.<br><br><br><br><br><br><br><br>
         </div>
 
         <div class ="LeftElementGirdFilms">
-            Film 3<br><br><br><br><br><br><br><br>
+            ENVOLE-MOI<br><br><br><br><br><br><br><br>
         </div>
 
         <div  class ="RightElementGirdFilms">
-            description<br><br><br><br><br><br><br><br>
+            La vie de Thomas, fêtard invétéré, est bouleversée le jour de sa rencontre avec Marcus, 12 ans.<br><br><br><br><br><br><br><br>
         </div>
 
         <div class ="LeftElementGirdFilms">
-            Film 3<br><br><br><br><br><br><br><br>
+            GARÇON CHIFFON<br><br><br><br><br><br><br><br>
         </div>
 
         <div  class ="RightElementGirdFilms">
-            description<br><br><br><br><br><br><br><br>
+            Tragicomédie sur un homme tourmenté qui se réconcilie avec sa mère habitant la campagne.<br><br><br><br><br><br><br><br>
         </div>
 
         <div class ="LeftElementGirdFilms">
-            Film 3<br><br><br><br><br><br><br><br>
+            TOM & JERRY<br><br><br><br><br><br><br><br>
         </div>
 
         <div  class ="RightElementGirdFilms">
-            description<br><br><br><br><br><br><br><br>
+            Un film familial dont les héros, un chat et une souris, provoquent le chaos dans un hôtel.<br><br><br><br><br><br><br><br>
         </div>
 
         <div class ="LeftElementGirdFilms">
-            Film 3<br><br><br><br><br><br><br><br>
+            RAYA ET LE DERNIER DRAGON<br><br><br><br><br><br><br><br>
         </div>
 
         <div  class ="RightElementGirdFilms">
-            description<br><br><br><br><br><br><br><br>
+            Dans ce film d’animation de Disney, une guerrière part à la recherche du dernier dragon.<br><br><br><br><br><br><br><br>
         </div>
 
         <div class ="LeftElementGirdFilms">
-            Film 3<br><br><br><br><br><br><br><br>
+            UN TOUR CHEZ MA FILLE<br><br><br><br><br><br><br><br>
         </div>
 
         <div  class ="RightElementGirdFilms">
-            description<br><br><br><br><br><br><br><br>
+            Après « Retour chez ma mère », Jacqueline s'incruste chez sa fille ainée Carole.<br><br><br><br><br><br><br><br>
         </div>
 
         <div>

@@ -21,16 +21,16 @@ ob_start();
 
         <form class="formRegister">
             <h1 class="InscriptionTitleLogin"> Inscription </h1>
-            <h4 class="LoginRegisterContentTexte"> E-mail</h4>
-            <input type="search" class="LoginRegisterbutton">
-            <h4 class="LoginRegisterContentTexte"> Mot-de-passe</h4>
-            <input type="search" class="LoginRegisterbutton">
-            <h4 class="LoginRegisterContentTexte"> Numéro de Téléphone</h4>
-            <input type="search" class="LoginRegisterbutton">
-            <h4 class="LoginRegisterContentTexte"> Nom</h4>
-            <input type="search" class="LoginRegisterbutton">
-            <h4 class="LoginRegisterContentTexte">  Prénom</h4>
-            <input type="search" class="RegisterButton">
+            <h4 > E-mail</h4>
+            <input type="search">
+            <h4 > Mot-de-passe</h4>
+            <input type="search" >
+            <h4 > Numéro de Téléphone</h4>
+            <input >
+            <h4 > Nom</h4>
+            <input type="search" >
+            <h4>  Prénom</h4>
+            <input type="search">
             <button class="buttonLoginRegisterValidation"> Valider </button>
 
         </form>

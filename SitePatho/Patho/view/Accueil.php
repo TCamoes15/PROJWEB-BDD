@@ -12,7 +12,7 @@ ob_start();
 <div>
 
     <span class="texteSurImageUn ">Envie de voir le meilleur ?<br> </span>
-    <span class="texteSurImageDeux ">Cliquez juste en bas </span>
+    <span class="texteSurImageDeux ">Cliquez juste ici </span>
 
 
 

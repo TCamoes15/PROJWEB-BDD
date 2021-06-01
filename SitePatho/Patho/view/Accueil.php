@@ -35,7 +35,7 @@ ob_start();
 
 
     <div class ="LeftElementGirdAccueil">
-    ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
+    <img src="view/content/image/AfficheFilm/DemonSlayer.jpg" class="AfficheFilmGrandFormat">
     </div>
 
     <div class ="RightElementGirdAccueil">

@@ -14,11 +14,11 @@ ob_clean();
         <hr>
         <div class="row">
             <div class="col-sm-8">
-                <hr align="left" width="50%">
+
                 <h4 class="pt-2">Numéro de téléphone</h4>
-                <i class="fas fa-phone" style="color:#000"></i> <a href="tel:+"> 123456 </a><br>
+                <i class="fas fa-phone" style="color:#000"></i> <a href="tel:+"> 024 459 12 34 </a><br>
                 <h4 class="pt-2">Email</h4>
-                <i class="fa fa-envelope" style="color:#000"></i> <a href="">test@test.com</a><br>
+                <i class="fa fa-envelope" style="color:#000"></i> <a href="">patho@patho.com</a><br>
                 <h4 class="pt-2">Horaire: <br><br>
                 Lundi: 16h-23h <br>
                 Mardi: 16h-23h <br>

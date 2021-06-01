@@ -35,7 +35,7 @@ ob_start();
 
 
     <div class ="LeftElementGirdAccueil">
-    <img src="view/content/image/AfficheFilm/DemonSlayer.jpg" class="AfficheFilmGrandFormat">
+    <img src="" class="AfficheFilmGrandFormat">
     </div>
 
     <div class ="RightElementGirdAccueil">

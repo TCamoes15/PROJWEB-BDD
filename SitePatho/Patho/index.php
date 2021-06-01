@@ -25,6 +25,12 @@ if (isset($_GET['action'])) {
         case 'LoginRegister' :
             LoginRegister();
             break;
+        case 'login' :
+            login($_POST);
+            break;
+        case 'register' :
+            register($_POST);
+            break;
         case 'logout' :
             logout();
             break;

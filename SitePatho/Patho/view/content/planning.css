@@ -14,5 +14,36 @@
     grid-template-rows: 8% 23% 23% 23% 23% ;
     padding: 20px;
 
+    border: solid;
+
+}
+
+
+.PlanningTitle{
+    border: 2px solid;
+    padding: 5%;
+    text-align: center;
+    font-size: x-large;
+}
+
+.PlanningRoom{
+    border: 2px solid;
+    text-align: center;
+    font-size: xx-large;
+   padding: 23%;
+}
+
+.PlanningContent{
+    border: 2px solid;
+    text-align: center;
+    font-size: large;
+}
+
+.PlanningContentImage{
+    position: relative;
+    height: 70%;
+    top: 0%;
+    width: 100%;
+
 
 }

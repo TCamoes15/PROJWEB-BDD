@@ -38,9 +38,41 @@ function login($loginRequest)
     }
 }
 
+function createSession($userEmailAddress,$userType){
+    $_SESSION['userEmailAddress'] = $userEmailAddress;
+    $_SESSION['userType']=$userType;
+}
+
 function register($registerRequest){
+    //variable set
+    if (isset($registerRequest['inputUserEmailAddress']) && isset($registerRequest['inputUserPsw']) && isset($registerRequest['inputUserPswRepeat'])) {
 
+        //extract register parameters
+        $userEmailAddress = $registerRequest['inputUserEmailAddress'];
+        $userPsw = $registerRequest['inputUserPsw'];
+        $userPswRepeat = $registerRequest['inputUserPswRepeat'];
 
+        if ($userPsw == $userPswRepeat){
+            require_once "model/usersManager.php";
+            if (registerNewAccount($userEmailAddress, $userPsw)){ //Cas inscription tout OK, on crée direct la session
+                createSession($userEmailAddress,1);
+                $_GET['registerError'] = false;
+                $_GET['action'] = "home";
+                require "view/home.php";
+            } else{ //Cas requête refusée (email existant)
+                $_GET['registerError'] = true;
+                $_GET['action'] = "register";
+                require "view/register.php";
+            }
+        }else{ //Cas inscription pas possible, il faut recommencer
+            $_GET['registerError'] = true;
+            $_GET['action'] = "register";
+            require "view/register.php";
+        }
+    }else{ //Cas où on arrive sans données
+        $_GET['action'] = "register";
+        require "view/register.php";
+    }
 }
 
 function logout(){

@@ -32,7 +32,8 @@ function login($loginRequest)
         } else { //if the user/psw does not match, login form appears again
             $_GET['loginError'] = true;
             $_GET['action'] = "login";
-            require "view/login.php";
+            echo "cassé";
+            require "view/LoginRegister.php";
         }
 
     }
@@ -45,14 +46,13 @@ function createSession($userEmailAddress,$userType){
 
 function register($registerRequest){
     //variable set
-    if (isset($registerRequest['inputUserEmailAddress']) && isset($registerRequest['inputUserPsw']) && isset($registerRequest['inputUserPswRepeat'])) {
+    if (isset($registerRequest['inputUserEmailAddress']) && isset($registerRequest['inputUserPsw'])) {
 
         //extract register parameters
         $userEmailAddress = $registerRequest['inputUserEmailAddress'];
         $userPsw = $registerRequest['inputUserPsw'];
-        $userPswRepeat = $registerRequest['inputUserPswRepeat'];
 
-        if ($userPsw == $userPswRepeat){
+        if ($userPsw =!null) {
             require_once "model/usersManager.php";
             if (registerNewAccount($userEmailAddress, $userPsw)){ //Cas inscription tout OK, on crée direct la session
                 createSession($userEmailAddress,1);
@@ -62,16 +62,16 @@ function register($registerRequest){
             } else{ //Cas requête refusée (email existant)
                 $_GET['registerError'] = true;
                 $_GET['action'] = "register";
-                require "view/register.php";
+                require "view/LoginRegister.php";
             }
         }else{ //Cas inscription pas possible, il faut recommencer
             $_GET['registerError'] = true;
             $_GET['action'] = "register";
-            require "view/register.php";
+            require "view/LoginRegister.php";
         }
     }else{ //Cas où on arrive sans données
         $_GET['action'] = "register";
-        require "view/register.php";
+        require "view/LoginRegister.php";
     }
 }
 

@@ -1,6 +1,9 @@
 <?php
-
-
+/**
+ * This function is designed to insert value in database
+ * @param $query
+ * @return bool|null : $statement->execute() returne true is the insert was successful
+ */
 function executeQuerySelect($query)
 {
     $queryResult = null;
@@ -38,9 +41,9 @@ function openDBConnexion()
     $hostname = 'localhost';
     $port = 3306;
     $charset = 'utf8';
-    $dbName = 'projetwebbdd';
-    $userName = 'root'; //par compatibilité avec le dépôt swisscenter
-    $userPwd = '';
+    $dbName = 'ProjetWeb';
+    $userName = 'ProjetWebAdmin'; //par compatibilité avec le dépôt swisscenter
+    $userPwd = 'Admin';
     $dsn = $sqlDriver . ':host=' . $hostname . ';dbname=' . $dbName . ';port=' . $port . ';charset=' . $charset;
 
     try {

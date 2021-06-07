@@ -51,10 +51,13 @@ function register($registerRequest){
         //extract register parameters
         $userEmailAddress = $registerRequest['inputUserEmailAddress'];
         $userPsw = $registerRequest['inputUserPsw'];
+        $userPhoneNumber = $registerRequest['inputPhoneNumber'];
+        $userLastName = $registerRequest['inputLastname'];
+        $userFirstName = $registerRequest['inputFirstname'];
 
         if ($userPsw =!null) {
             require_once "model/usersManager.php";
-            if (registerNewAccount($userEmailAddress, $userPsw)){ //Cas inscription tout OK, on crée direct la session
+            if (registerNewAccount($userEmailAddress, $userPsw, $userPhoneNumber, $userLastName, $userFirstName )){ //Cas inscription tout OK, on crée direct la session
                 createSession($userEmailAddress,1);
                 $_GET['registerError'] = false;
                 $_GET['action'] = "home";

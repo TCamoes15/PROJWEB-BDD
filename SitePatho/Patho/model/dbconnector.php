@@ -41,9 +41,9 @@ function openDBConnexion()
     $hostname = 'localhost';
     $port = 3306;
     $charset = 'utf8';
-    $dbName = 'ProjetWeb';
-    $userName = 'ProjetWebAdmin'; //par compatibilité avec le dépôt swisscenter
-    $userPwd = 'Admin';
+    $dbName = 'projetweb';
+    $userName = 'Patho'; //par compatibilité avec le dépôt swisscenter
+    $userPwd = '';
     $dsn = $sqlDriver . ':host=' . $hostname . ';dbname=' . $dbName . ';port=' . $port . ';charset=' . $charset;
 
     try {

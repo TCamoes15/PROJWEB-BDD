@@ -19,19 +19,16 @@ function isLoginCorrect($userEmailAddress, $userPsw){
     return $result;
 }
 
-function registerNewAccount($userEmailAddress, $userPsw){
+function registerNewAccount($userEmailAddress, $userPsw, $userPhoneNumber, $userLastName, $userFirstName ){
 
     $strSeparator = '\'';
     //avec password hashé
     $userHashPsw = password_hash($userPsw, PASSWORD_DEFAULT);
-    $registerQuery = 'INSERT INTO users (userEmailAddress, userHashPsw, userType) 
-        VALUES (' .$strSeparator . $userEmailAddress .$strSeparator . ','
-        .$strSeparator . $userHashPsw .$strSeparator. ',1)';
+    $register = "INSERT INTO users (e-mail, password, phoneNumber, firstname, lastname, autorisation) VALUES ('$userEmailAddress', '$userHashPsw', '$userPhoneNumber', '$userFirstName', '$userLastName' , '1')";
     //$registerQuery = 'INSERT INTO users (`userEmailAddress`, `userPsw`)
     //        '.$strSeparator . $userPsw .$strSeparator. ')';
-    echo $registerQuery;
     require_once 'model/dbConnector.php';
-    $queryResult = executeQueryIUD($registerQuery);
+    $queryResult = executeQueryIUD($register);
 
     return $queryResult;//renvoie true (si l'insert a été exécuté) ou false (si l'insert a été refusé)
 }
@@ -41,7 +38,7 @@ function getUserType($userEmailAddress){
 
     $strSeparator = '\'';
 
-    $getUserTypeQuery = 'SELECT userType FROM users WHERE users.userEmailAddress =' . $strSeparator . $userEmailAddress . $strSeparator;
+    $getUserTypeQuery = 'SELECT autorisation FROM users WHERE users.e-mail =' . $strSeparator . $userEmailAddress . $strSeparator;
 
     require_once 'model/dbConnector.php';
     $queryResult = executeQuerySelect($getUserTypeQuery);

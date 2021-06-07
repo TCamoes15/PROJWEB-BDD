@@ -4,8 +4,9 @@
 function isLoginCorrect($userEmailAddress, $userPsw){
     $result = false;
 
+    echo $userPsw;
     $strSeparator = '\'';
-    $loginQuery = 'SELECT * FROM users WHERE email = ' .$userEmailAddress;
+    $loginQuery = 'SELECT * FROM users WHERE email LIKE ' . $userEmailAddress;
 
     require_once 'model/dbConnector.php';
     echo $loginQuery;

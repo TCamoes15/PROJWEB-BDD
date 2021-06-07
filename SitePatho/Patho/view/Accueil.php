@@ -7,7 +7,7 @@ ob_start();
 
 <title>Accueil</title>
 
-<body>
+<body  >
 
 <div>
 

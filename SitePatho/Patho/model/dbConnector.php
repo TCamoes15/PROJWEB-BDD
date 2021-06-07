@@ -2,7 +2,7 @@
 /**
  * This function is designed to insert value in database
  * @param $query
- * @return bool|null : $statement->execute() returne true is the insert was successful
+ * @return array
  */
 function executeQuerySelect($query)
 {

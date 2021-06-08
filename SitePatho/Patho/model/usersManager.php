@@ -12,12 +12,18 @@ function isLoginCorrect($userEmailAddress, $userPsw){
     echo $loginQuery;
     $queryResult = executeQuerySelect($loginQuery);
 
-   echo count ($queryResult);
+    echo count ($queryResult);
     if (count($queryResult) == 1) //Si queryResult comporte 1 ligne c'est que l'email existe
     {
-    $userHashPsw = $queryResult[0]['password']; //récupération du hash dans la BD
-    $result = password_verify($userPsw, $userHashPsw); //renvoie vrai si le password et le hash correspondent
-        if ($result = 1)
+        $userHashPsw = $queryResult[0]['password']; //récupération du hash dans la BD
+        echo($userHashPsw);
+        // $result =
+        if  (password_verify($userPsw, $userHashPsw)) {
+        echo 'Le mot de passe est valide !';
+        } else {
+            echo 'Le mot de passe est invalide.';
+        }
+       //if($result == true){echo "ok" ;}if ($result == false){echo "olola";}
 }
 
     return $result;
@@ -47,7 +53,7 @@ function getUserType($userEmailAddress){
     $queryResult = executeQuerySelect($getUserTypeQuery);
 
     if (count($queryResult) == 1){
-        $result = $queryResult[0]['userType'];
+        $result = $queryResult[0]['autorisation'];
     }
     return $result;
 }

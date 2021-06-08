@@ -35,27 +35,27 @@ ob_start();
 
 
     <div class ="LeftElementGirdAccueil">
-    <img src="" class="AfficheFilmGrandFormat">
+        30 JOURS MAX <br>
+    <img src="https://media.services.cinergy.ch/media/cinemanteaser174x240/9c6892dcfa42447574d8c02da5adb9bb7de10eb8.jpg" >
+    </div>
+    <div class ="RightElementGirdAccueil">
+        Croyant que ses jours sont comptés, un policer décide de jouer le tout pour le tout.
+    </div>
+    <div class ="LeftElementGirdAccueil">
+        <img class="centrerimg" src="http://www.close-upmag.com/wp-content/uploads/2020/10/Adieu-Les-Cons-affiche-film.jpg" width="600px" height="300px" >
     </div>
 
     <div class ="RightElementGirdAccueil">
-    ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
+        <strong>Adieu les cons</strong> <br>
+        Gravement malade, une quadragénaire décide de retrouver l’enfant qu’elle a dû abandonner.
     </div>
 
     <div class ="LeftElementGirdAccueil">
-    ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
-    </div>
-
-    <div class ="RightElementGirdAccueil">
-    ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
-    </div>
-
-    <div class ="LeftElementGirdAccueil">
-        ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
+        ethgwiubgwgv8ybg8uowayvbg
     </div>
 
     <div  class ="RightElementGirdAccueil">
-        ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
+        ethgwiubgwgv8ybg8uowayvbg
     </div>
 
     <div>

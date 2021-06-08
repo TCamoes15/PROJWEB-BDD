@@ -8,6 +8,8 @@
  *          Simplify index. Remove all pages references.
  */
 
+
+
 session_start();
 require "controler/controler.php";
 

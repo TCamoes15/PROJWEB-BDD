@@ -28,9 +28,19 @@
         contact
     </a>
 
-    <a class="headerItems" href=index.php?action=LoginRegister style="text-decoration: none">
-        Login/Register
-    </a>
+    <?php if(!isset($_SESSION['userEmailAddress'])) :?>
+
+        <a class="headerItems" href = index.php?action=GestionDeCompte style = "text-decoration: none" >
+          gestion du compte
+        </a >
+
+    <?php else    :?>
+
+    <a class="headerItems" href =index.php?action=LoginRegister style = "text-decoration: none" >
+        Login / Register
+    </a >
+
+    <?php endif; ?>
 
 </header>
 

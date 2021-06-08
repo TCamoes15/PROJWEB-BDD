@@ -1,30 +1,32 @@
 <?php
 
 
-function isLoginCorrect($userEmailAddress, $userPsw){
+function isLoginCorrect($userEmailAddress, $userPsw)
+{
     $result = false;
 
-    echo $userPsw;
+
     $strSeparator = '\'';
     $loginQuery = "SELECT * FROM users WHERE email LIKE '$userEmailAddress'";
 
     require_once 'model/dbConnector.php';
-    echo $loginQuery;
+
     $queryResult = executeQuerySelect($loginQuery);
 
-   echo count ($queryResult);
+
     if (count($queryResult) == 1) //Si queryResult comporte 1 ligne c'est que l'email existe
     {
-    $userHashPsw = $queryResult[0]['password']; //récupération du hash dans la BD
-    $result = password_verify($userPsw, $userHashPsw); //renvoie vrai si le password et le hash correspondent
-        if ($result = 1)
-}
+        $userHashPsw = $queryResult[0]['password']; //récupération du hash dans la BD
+        $result = password_verify($userPsw, $userHashPsw);
+
+    }
+
 
     return $result;
 }
 
-function registerNewAccount($userEmailAddress, $userPsw, $userPhoneNumber, $userLastName, $userFirstName ){
-
+function registerNewAccount($userEmailAddress, $userPsw, $userPhoneNumber, $userLastName, $userFirstName)
+{
     $strSeparator = '\'';
     //avec password hashé
     $userHashPsw = password_hash($userPsw, PASSWORD_DEFAULT);
@@ -36,7 +38,8 @@ function registerNewAccount($userEmailAddress, $userPsw, $userPhoneNumber, $user
     return $queryResult;//renvoie true (si l'insert a été exécuté) ou false (si l'insert a été refusé)
 }
 
-function getUserType($userEmailAddress){
+function getUserType($userEmailAddress)
+{
     $result = 1;//we fix the result to 1 -> customer
 
     $strSeparator = '\'';
@@ -46,8 +49,8 @@ function getUserType($userEmailAddress){
     require_once 'model/dbConnector.php';
     $queryResult = executeQuerySelect($getUserTypeQuery);
 
-    if (count($queryResult) == 1){
-        $result = $queryResult[0]['userType'];
+    if (count($queryResult) == 1) {
+        $result = $queryResult[0]['autorisation'];
     }
     return $result;
 }

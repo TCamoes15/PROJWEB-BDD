@@ -27,13 +27,13 @@ function login($loginRequest)
             $userType = getUserType($userEmailAddress);
             createSession($userEmailAddress, $userType);
             $_GET['loginError'] = false;
-            $_GET['action'] = "home";
-            require "view/home.php";
+            $_GET['action'] = "Accueil";
+           require "view/Accueil.php";
         } else { //if the user/psw does not match, login form appears again
             $_GET['loginError'] = true;
             $_GET['action'] = "login";
-            echo "cassé";
-            require "view/LoginRegister.php";
+           // echo "cassé";
+           // require "view/LoginRegister.php";
         }
 
     }
@@ -60,21 +60,25 @@ function register($registerRequest){
             if (registerNewAccount($userEmailAddress, $userPsw, $userPhoneNumber, $userLastName, $userFirstName )){ //Cas inscription tout OK, on crée direct la session
                 createSession($userEmailAddress,1);
                 $_GET['registerError'] = false;
-                $_GET['action'] = "home";
-                require "view/home.php";
+                $_GET['action'] = "Accueil";
+                require "view/Accueil.php";
+                echo "COK" ;
             } else{ //Cas requête refusée (email existant)
                 $_GET['registerError'] = true;
                 $_GET['action'] = "register";
                 require "view/LoginRegister.php";
+                 ;
             }
         }else{ //Cas inscription pas possible, il faut recommencer
             $_GET['registerError'] = true;
             $_GET['action'] = "register";
             require "view/LoginRegister.php";
+            echo "COsK" ;
         }
     }else{ //Cas où on arrive sans données
         $_GET['action'] = "register";
         require "view/LoginRegister.php";
+        echo "COaK" ;
     }
 }
 

@@ -7,7 +7,8 @@ ob_start();
     <div class="FormulairePageLogin">
 
 
-
+        <div class="row">
+            <div class="col-25">
         <form class="formLogin" method='POST' action="index.php?action=login">
             <h1 class="ConnexionTitleLogin" > Connexion </h1>
 
@@ -19,8 +20,9 @@ ob_start();
 
             <button class="buttonLoginRegisterValidation" type="submit"> Valider </button>
         </form>
+            </div>
+        </div>
 
-        <div>      </div>
 
         <form class="formRegister" method='POST' action="index.php?action=register">
             <h1 class="InscriptionTitleLogin"> Inscription </h1>
@@ -41,7 +43,6 @@ ob_start();
             <input type="fname" placeholder="prénom" name="inputFirstname" require>
 
             <button class="buttonLoginRegisterValidation" type="submit" > Valider </button>
-
         </form>
 
     </div>

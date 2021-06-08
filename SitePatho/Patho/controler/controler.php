@@ -32,8 +32,7 @@ function login($loginRequest)
         } else { //if the user/psw does not match, login form appears again
             $_GET['loginError'] = true;
             $_GET['action'] = "login";
-           // echo "cassé";
-           // require "view/LoginRegister.php";
+            require "view/LoginRegister.php";
         }
 
     }
@@ -55,7 +54,7 @@ function register($registerRequest){
         $userLastName = $registerRequest['inputLastname'];
         $userFirstName = $registerRequest['inputFirstname'];
 
-        if ($userPsw =!null) {
+        if ($userPsw !=null) {
             require_once "model/usersManager.php";
             if (registerNewAccount($userEmailAddress, $userPsw, $userPhoneNumber, $userLastName, $userFirstName )){ //Cas inscription tout OK, on crée direct la session
                 createSession($userEmailAddress,1);
@@ -67,7 +66,7 @@ function register($registerRequest){
                 $_GET['registerError'] = true;
                 $_GET['action'] = "register";
                 require "view/LoginRegister.php";
-                 ;
+
             }
         }else{ //Cas inscription pas possible, il faut recommencer
             $_GET['registerError'] = true;

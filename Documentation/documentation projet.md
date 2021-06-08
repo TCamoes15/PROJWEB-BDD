@@ -41,7 +41,14 @@ Objectif
 Stratégie de test
 ----
 
-le Product Owner testera certaines fonctionnalités à la demande des collaborateurs puis fournira une réponse du résultat par oral ou par écrit
+- L'application devra être testée pour éviter les bugs et les risques. 
+- Les stories seront utilisées pour les tests.
+- Les tests seront effectués à la fin de chaque stories et à la fin du projet.
+- L'utilisation des maquettes sera obligatoire pour les tests.
+- Les développeurs testent à chaque fin de story et le PO testera sur la demande des développeurs et fournira une réponse par mail.
+- L'environnement utilisé sera PhpStorm.
+
+
 
 ## Journal de bord
 

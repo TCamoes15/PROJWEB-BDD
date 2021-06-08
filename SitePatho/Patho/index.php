@@ -8,9 +8,10 @@
  *          Simplify index. Remove all pages references.
  */
 
+
+
 session_start();
 require "controler/controler.php";
-
 
 
 if (isset($_GET['action'])) {
@@ -24,6 +25,12 @@ if (isset($_GET['action'])) {
             break;
         case 'LoginRegister' :
             LoginRegister();
+            break;
+        case 'login' :
+            login($_POST);
+            break;
+        case 'register' :
+            register($_POST);
             break;
         case 'logout' :
             logout();

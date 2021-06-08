@@ -7,7 +7,7 @@ ob_start();
 
 <title>Accueil</title>
 
-<body>
+<body  >
 
 <div>
 
@@ -35,7 +35,7 @@ ob_start();
 
 
     <div class ="LeftElementGirdAccueil">
-    ethgwiubgwgv8ybg8uowayvbg<br><br><br><br><br><br><br><br>
+    <img src="" class="AfficheFilmGrandFormat">
     </div>
 
     <div class ="RightElementGirdAccueil">

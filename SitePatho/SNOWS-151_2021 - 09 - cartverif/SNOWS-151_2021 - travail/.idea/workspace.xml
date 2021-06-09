@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6b2ab00-b284-48bf-95b3-e5b3b6546a1d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Documentation/SQLCreateBDD.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Documentation/SQLCreateBDD.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Patho/controler/controler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/controler/controler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Patho/model/usersManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/model/usersManager.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Patho/view/Accueil.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/view/Accueil.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Patho/view/Films.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/view/Films.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Patho/view/GestionDeCompte.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/view/GestionDeCompte.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Patho/view/content/Films.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/view/content/Films.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Patho/view/gabarit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/view/gabarit.php" afterDir="false" />
-    </list>
+    <list default="true" id="f6b2ab00-b284-48bf-95b3-e5b3b6546a1d" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Patho" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,7 +57,7 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -101,13 +92,13 @@
       <workItem from="1623072494497" duration="2363000" />
       <workItem from="1623132260542" duration="559000" />
       <workItem from="1623137720593" duration="620000" />
-      <workItem from="1623138878119" duration="2535000" />
-      <workItem from="1623219341766" duration="17000" />
+      <workItem from="1623138878119" duration="300000" />
+      <workItem from="1623172448925" duration="1185000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -122,10 +113,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1623219355951">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1623132324386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623219355951" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623132324385" />
     <state width="871" height="275" key="GridCell.Tab.0.bottom" timestamp="1622558776023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

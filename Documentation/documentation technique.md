@@ -44,8 +44,8 @@ le serveur va manipuler des données basée sur le [MCD](https://github.com/TCam
 
 ### Astuce #1:
 
-nous avons utilisé des templates de Bootstrap
+nous avons utilisé des **templates** de **Bootstrap**
 
 ### Astuce #2:
 
-nous avons réutilisé certaines bases du cours "ICT-151" comme le login/register
+nous avons réutilisé certaines **bases du cours "ICT-151"** comme le **login/register**

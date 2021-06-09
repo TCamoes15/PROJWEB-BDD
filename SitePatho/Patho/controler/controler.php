@@ -1,6 +1,7 @@
 <?php
 function Accueil(){
-
+    require_once "model/usersManager.php";
+    $movies = recuperateImage();
     require "view/Accueil.php";
 }
 
@@ -83,7 +84,9 @@ function register($registerRequest){
 
 function logout(){
 
-    require "view/logout.php";
+    $_SESSION = array();
+
+    require "view/Accueil.php";
 }
 
 function Films(){
@@ -100,3 +103,4 @@ function Planning(){
 
     require "view/Planning.php";
 }
+

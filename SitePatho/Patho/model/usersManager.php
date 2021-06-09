@@ -54,3 +54,14 @@ function getUserType($userEmailAddress)
     }
     return $result;
 }
+
+function recuperateImage(){
+    $strSeparator = '\'';
+
+    $getUserTypeQuery = 'SELECT * FROM movies';
+
+    require_once 'model/dbConnector.php';
+    $queryResult = executeQuerySelect($getUserTypeQuery);
+
+    return $queryResult;
+}

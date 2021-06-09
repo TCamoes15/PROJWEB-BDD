@@ -25,7 +25,7 @@ ob_clean();
                     <div class="card-body">
                         <div class="row gutters">
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                <h6 class="mb-2 text-primary">Personal Details</h6>
+                                <h6 class="mb-2 text-primary">Que voulez vous changez ?</h6>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                                 <div class="form-group">
@@ -41,9 +41,12 @@ ob_clean();
                         <div class="row gutters">
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                                 <div class="text-right">
-                                    <button type="button" id="submit" name="submit" class="btn btn-secondary">Annuler</button>
-                                    <button type="button" id="submit" name="submit" class="btn btn-primary">Actualiser</button>
-                                    <button type="button" id="submit" name="submit" class="btn btn-danger">Se déconnecter</button>
+
+                                    <form  method='POST' action="index.php?action=logout">
+                                        <br>
+                                    <button type="submit" id="submit" name="submit" class="btn btn-danger">Se déconnecter</button>
+                                    </form>
+
                                 </div>
                             </div>
                         </div>

@@ -15,12 +15,22 @@
 
 .LeftElementGirdFilms{
     background-color: #CBDBD7;
-
+    padding: 5%;
 }
 
 .RightElementGirdFilms{
     background-color: #CBDBD7;
-    padding: 10%;
+
 }
 
+.AfficheFilmGrandFormatPageFilm{
+    width: 90%;
+    height: 100%;
+    object-fit: cover;
+    border: solid;
+    position: relative;
+    left: 10%;
+
+
+}
 

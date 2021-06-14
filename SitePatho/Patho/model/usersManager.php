@@ -65,3 +65,24 @@ function recuperateImage(){
 
     return $queryResult;
 }
+
+function recuperatePlanningData(){
+    $strSeparator = '\'';
+
+    $getUserTypeQuery = 'SELECT * 
+                        FROM planning
+                        Full';
+
+    require_once 'model/dbConnector.php';
+    $queryResult = executeQuerySelect($getUserTypeQuery);
+
+    return $queryResult;
+}
+
+function GetDataMovies(){
+
+}
+
+function GetRoom(){
+
+}

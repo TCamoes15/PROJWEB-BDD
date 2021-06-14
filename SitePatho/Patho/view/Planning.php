@@ -25,7 +25,7 @@ ob_clean();
            if ($i <= 4) :?>
 
         <div class="PlanningRoom">Salle <?php echo $i ?></div>
-        <div class="PlanningContent"> <img src=<?="view/content/image/gris.jpg" ?>  class="PlanningContentImage"> <?php  ?> </div>
+        <div class="PlanningContent"> <img src=<?="view/content/image/gris.jpg" ?>  class="PlanningContentImage"> <?php $description['Title']['1'] ?> </div>
         <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
         <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
         <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>

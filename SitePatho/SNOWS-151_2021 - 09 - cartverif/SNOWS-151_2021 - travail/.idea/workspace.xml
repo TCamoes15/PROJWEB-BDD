@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b2ab00-b284-48bf-95b3-e5b3b6546a1d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Patho/controler/controler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/controler/controler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Patho/model/usersManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/model/usersManager.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Patho/view/Planning.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/view/Planning.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +96,7 @@
       <workItem from="1623137720593" duration="620000" />
       <workItem from="1623138878119" duration="300000" />
       <workItem from="1623172448925" duration="1185000" />
-      <workItem from="1623673397678" duration="1879000" />
+      <workItem from="1623673397678" duration="1882000" />
     </task>
     <servers />
   </component>

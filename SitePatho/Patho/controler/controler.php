@@ -103,8 +103,6 @@ function GestionDeCompte(){
 function Planning(){
     require_once "model/usersManager.php";
     $description = recuperatePlanningData();
-    $dataMovies = GetDataMovies();
-    $room = GetRoom();
     require "view/Planning.php";
 }
 

@@ -69,9 +69,19 @@ function recuperateImage(){
 function recuperatePlanningData(){
     $strSeparator = '\'';
 
-    $getUserTypeQuery = 'SELECT * 
-                        FROM planning
-                        Full';
+    $getUserTypeQuery = 'SELECT *
+                         FROM planning 
+                         INNER JOIN movies ON Movies.idMovies = planning.Movies_idMovies
+                         LEFT JOIN rooms ON rooms.idRooms = planning.Rooms_idRooms' ;
+
+    require_once 'model/dbConnector.php';
+    $queryResult = executeQuerySelect($getUserTypeQuery);
+
+    return $queryResult;
+}
+/**
+function GetDataMovies(){
+    $getUserTypeQuery = 'SELECT *  FROM movies';
 
     require_once 'model/dbConnector.php';
     $queryResult = executeQuerySelect($getUserTypeQuery);
@@ -79,10 +89,12 @@ function recuperatePlanningData(){
     return $queryResult;
 }
 
-function GetDataMovies(){
-
-}
-
 function GetRoom(){
+    $getUserTypeQuery = 'SELECT *  FROM rooms';
 
+    require_once 'model/dbConnector.php';
+    $queryResult = executeQuerySelect($getUserTypeQuery);
+
+    return $queryResult;
 }
+*/

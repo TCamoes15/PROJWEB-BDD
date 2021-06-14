@@ -90,7 +90,8 @@ function logout(){
 }
 
 function Films(){
-
+    require_once "model/usersManager.php";
+    $movies = recuperateImage();
     require "view/Films.php";
 }
 

@@ -7,61 +7,16 @@ ob_clean();
     <div class="filmsPage">
 
 
-        <div class ="LeftElementGirdFilms">
-            30 JOURS MAX<br><br><br><br><br><br><br><br>
-        </div>
+        <?php  foreach ($movies as $movie) :  ?>
 
-        <div class ="RightElementGirdFilms">
-            <img src="" class="AfficheFilmGrandFormatPageFilm">
-        </div>
+            <div class="LeftElementGirdAccueil">
+                <img src=<?= $movie['Image'] ?> class="AfficheFilmGrandFormat">
+            </div>
 
-        <div class ="LeftElementGirdFilms">
-            ADIEU LES CONS<br><br><br><br><br><br><br><br>
-        </div>
-
-        <div class ="RightElementGirdFilms">
-            <img src="" class="AfficheFilmGrandFormatPageFilm">
-        </div>
-
-        <div class ="LeftElementGirdFilms">
-            ENVOLE-MOI<br><br><br><br><br><br><br><br>
-        </div>
-
-        <div  class ="RightElementGirdFilms">
-            <img src="" class="AfficheFilmGrandFormatPageFilm">
-        </div>
-
-        <div class ="LeftElementGirdFilms">
-            GARÇON CHIFFON<br><br><br><br><br><br><br><br>
-        </div>
-
-        <div  class ="RightElementGirdFilms">
-            <img src="" class="AfficheFilmGrandFormatPageFilm">
-        </div>
-
-        <div class ="LeftElementGirdFilms">
-            TOM & JERRY<br><br><br><br><br><br><br><br>
-        </div>
-
-        <div  class ="RightElementGirdFilms">
-            <img src="" class="AfficheFilmGrandFormatPageFilm">
-        </div>
-
-        <div class ="LeftElementGirdFilms">
-            RAYA ET LE DERNIER DRAGON<br><br><br><br><br><br><br><br>
-        </div>
-
-        <div  class ="RightElementGirdFilms">
-            <img src="" class="AfficheFilmGrandFormatPageFilm">
-        </div>
-
-        <div class ="LeftElementGirdFilms">
-            UN TOUR CHEZ MA FILLE<br><br><br><br><br><br><br><br>
-        </div>
-
-        <div  class ="RightElementGirdFilms">
-            <img src="" class="AfficheFilmGrandFormatPageFilm">
-        </div>
+            <div class="RightElementGirdAccueil">
+                <?= $movie['Description'] ?>
+            </div>
+        <?php endforeach?>
 
         <div>
             

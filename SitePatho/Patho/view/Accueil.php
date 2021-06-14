@@ -1,6 +1,5 @@
 <?php
 
-// foreach ($movies as $movie) : +
 ob_start();
 ?>
 
@@ -33,8 +32,10 @@ ob_start();
     </div>
 
     <div class="filmsPageAccueil">
-
-        <?php  for ()  ?>
+        <?php $i=0;
+        foreach ($movies as $movie) :
+            $i++;
+            if ($i < 4) : ?>
             <div class="LeftElementGirdAccueil">
                 <img src=<?= $movie['Image'] ?> class="AfficheFilmGrandFormat">
             </div>
@@ -42,7 +43,9 @@ ob_start();
             <div class="RightElementGirdAccueil">
                 <?= $movie['Description'] ?>
             </div>
-        <?php endforeach; ?>
+
+        <?php endif;
+        endforeach;?>
 
 
         <div>

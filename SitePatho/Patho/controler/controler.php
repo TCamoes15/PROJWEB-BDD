@@ -101,7 +101,8 @@ function GestionDeCompte(){
 }
 
 function Planning(){
-
+    require_once "model/usersManager.php";
+    $description = recuperatePlanningData();
     require "view/Planning.php";
 }
 

@@ -17,9 +17,15 @@ ob_clean();
         <div class="PlanningTitle">Samedi</div>
         <div class="PlanningTitle">Dimanche</div>
 
-        <!-- 2ère ligne -->
-        <div class="PlanningRoom">Salle 1</div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
+
+
+        <?php $i=0;
+        foreach ($description as $descriptions ):
+            $i++;
+           if ($i <= 4) :?>
+
+        <div class="PlanningRoom">Salle <?php echo $i ?></div>
+        <div class="PlanningContent"> <img src=<?="view/content/image/gris.jpg" ?>  class="PlanningContentImage"> <?php $description['Title']['1'] ?> </div>
         <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
         <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
         <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
@@ -27,39 +33,9 @@ ob_clean();
         <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
         <div class="PlanningContent"></div>
 
-        <!-- 3ère ligne -->
-        <div class="PlanningRoom">Salle 2</div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"></div>
-
-        <!-- 4ère ligne -->
-        <div class="PlanningRoom">Salle 3</div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"></div>
-
-        <!-- 5ère ligne -->
-        <div class="PlanningRoom">Salle 4</div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"></div>
-
+           <?php endif;
+        endforeach;?>
     </div>
-
-
 <?php
 $content = ob_get_clean();
 require "gabarit.php";

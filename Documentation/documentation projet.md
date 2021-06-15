@@ -1,8 +1,6 @@
-Analyse Préliminaire
-
 Introduction
 -----
-Le projet consiste à faire un site pour un cinéma multiplex « Pathos » codé en PHP/SQL les utilisateurs auront la possibilité de voir les prochaines séances et pourra également se connecter pour réserver une place.
+Le projet consiste à faire un site pour un cinéma multiplex « Patho » codé en PHP/SQL les utilisateurs auront la possibilité de voir les prochaines séances et pourra également se connecter pour réserver une place.
 
 ## Dans quel contexte le projet est-il réalisé ?
 
@@ -10,15 +8,15 @@ Dans le cadre du CPNV nous avons un module Projet Web avec base de données où 
 
 ## Organisation
 
-### Sprint 1:
+Jean-Amedée Bösch: Membre du projet
 
-Jean : Scrum Master & maquettes
+Tiago Santos: Scrum Master
 
-Tiago : MCD & MLD
+Mathias Guignard: Membre du projet
 
-Mathias : Documentation
+Xavier Carrel: Product Owner (Chef de projet)
 
-Objectif
+Objectifs
 ------
 
 -	Une **page d’accueil** avec les films récents
@@ -48,15 +46,13 @@ Stratégie de test
 - Les développeurs testent à chaque fin de story et le PO testera sur la demande des développeurs et fournira une réponse par mail.
 - L'environnement utilisé sera PhpStorm.
 
-
-
 ## Journal de bord
 
-|  Semaine 1  | Semaine 2      |  Semaine 3    |
-| ----        | ---- | ---- |
-|  MCD    | MLD     |  Début du projet (programation)     |
-|  Document d'Analyse    | Maquettes     |      |
-|      |      |      |
+|  Semaine 1  | Semaine 2      |  Semaine 3    |  Semaine 4  |    |    |    |    |
+| ----        | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|  MCD    | MLD     |  Début du projet (programation)     |    |    |    |    |    |
+|  Document d'Analyse    | Maquettes     |      |  |  |  |  |  |
+|      |      |      |      |      |      |      |      |
 
 
 
@@ -69,4 +65,39 @@ Analyse des risques
 - délais trop courts
 - alertes à la bombe
 - crises sanitaires
+
+## Bilan des objectifs atteints / non-atteints
+
+### atteints:
+
+-	une **page d’accueil** avec les films récents
+-	Une page qui affiche tous les films qui seront projeter 
+-	Un **tableau avec les prochaines projections** et dans quelle salle.
+-	Une **page pour les contacts**  
+-	**Inscription/connexion** soit pour un admin soit un utilisateur
+
+### non atteints:
+
+- Un système de compte qui permet de **réserver une place pour une projection**
+- Pour les admin des **options pour supprimer ou ajouter les films dans le tableau**
+- Une page pour **gérer les informations relatives au compte**
+
+### Bilan des points positifs / négatifs
+
+
+
+### Difficultés particulières rencontrées
+
+
+
+### Suites possibles
+
+- Hébergement sur **Swisscenter**
+- Un système de compte qui permet de **réserver une place pour une projection**
+- Pour les admin des **options pour supprimer ou ajouter les films dans le tableau**
+- Une page pour **gérer les informations relatives au compte**
+
+
+
+
 

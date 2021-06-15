@@ -1,6 +1,6 @@
 Introduction
 -----
-Le projet consiste à faire un site pour un cinéma multiplex « Patho » codé en PHP/SQL les utilisateurs auront la possibilité de voir les prochaines séances et pourra également se connecter pour réserver une place.
+Le **projet** consiste à faire un **site** pour un **cinéma multiplex** « **Patho** » codé en **PHP/SQL** les utilisateurs auront la possibilité de **voir les prochaines séances** et pourra également **se connecter pour réserver une place**.
 
 ## Dans quel contexte le projet est-il réalisé ?
 
@@ -8,13 +8,12 @@ Dans le cadre du CPNV nous avons un module Projet Web avec base de données où 
 
 ## Organisation
 
-Jean-Amedée Bösch: Membre du projet
-
-Tiago Santos: Scrum Master
-
-Mathias Guignard: Membre du projet
-
-Xavier Carrel: Product Owner (Chef de projet)
+| Nom               | Rôle                           |
+| ----------------- | ------------------------------ |
+| Jean-Amedée Bösch | Membre du projet               |
+| Tiago Santos      | Scrum Master                   |
+| Mathias Guignard  | Membre du projet               |
+| Xavier Carrel     | Product Owner (Chef de projet) |
 
 Objectifs
 ------
@@ -39,12 +38,11 @@ Objectifs
 Stratégie de test
 ----
 
-- L'application devra être testée pour éviter les bugs et les risques. 
 - Les stories seront utilisées pour les tests.
 - Les tests seront effectués à la fin de chaque stories et à la fin du projet.
 - L'utilisation des maquettes sera obligatoire pour les tests.
 - Les développeurs testent à chaque fin de story et le PO testera sur la demande des développeurs et fournira une réponse par mail.
-- L'environnement utilisé sera PhpStorm.
+- L'environnement utilisé sera **PhpStorm**.
 
 ## Journal de bord
 
@@ -82,15 +80,21 @@ Analyse des risques
 - Pour les admin des **options pour supprimer ou ajouter les films dans le tableau**
 - Une page pour **gérer les informations relatives au compte**
 
-### Bilan des points positifs / négatifs
+## Bilan des points positifs / négatifs
+
+### positifs:
 
 
 
-### Difficultés particulières rencontrées
+### négatifs:
 
+## Difficultés particulières rencontrées
 
+- problèmes de **connexion SQL**
+- **congés** enlevant ainsi des périodes
+- parfois juste des **""** ou des **virgules** manquantes empêche le fonctionnement du site et parfois peut prendre **beaucoup de temps** pour remarquer d'où viens l'erreur
 
-### Suites possibles
+## Suites possibles
 
 - Hébergement sur **Swisscenter**
 - Un système de compte qui permet de **réserver une place pour une projection**

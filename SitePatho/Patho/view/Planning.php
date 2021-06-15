@@ -17,25 +17,18 @@ ob_clean();
         <div class="PlanningTitle">Samedi</div>
         <div class="PlanningTitle">Dimanche</div>
 
+        <?php for ($line = 1 ; $line <=4 ; $line++) : ?>
+            <div class="PlanningRoom">Salle <?php echo $line ?></div>
 
+            <?php for ($day = 1 ; $day <=7; $day++): ?>
+                <div class="PlanningContent"> <img src=  class="PlanningContentImage"> <?php  ?> </div>
+            <?php endfor ?>
 
-        <?php $i=0;
-        foreach ($description as $descriptions ):
-            $i++;
-           if ($i <= 4) :?>
+            <div class="PlanningContent"></div>
 
-        <div class="PlanningRoom">Salle <?php echo $i ?></div>
-        <div class="PlanningContent"> <img src=<?="view/content/image/gris.jpg" ?>  class="PlanningContentImage"> <?php $description['Title']['1'] ?> </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"> <img src="view/content/image/gris.jpg" class="PlanningContentImage"> Star Jones </div>
-        <div class="PlanningContent"></div>
+        <?php endfor ?>
 
-           <?php endif;
-        endforeach;?>
     </div>
 <?php
 $content = ob_get_clean();
-require "gabarit.php";
+require "gabarit.php"; ?>

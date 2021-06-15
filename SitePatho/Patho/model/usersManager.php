@@ -69,10 +69,10 @@ function recuperateImage(){
 function recuperatePlanningData(){
     $strSeparator = '\'';
 
-    $getUserTypeQuery = 'SELECT *
+    $getUserTypeQuery = 'SELECT *,DAYOFWEEK(DATE) AS Day
                          FROM planning 
                          INNER JOIN movies ON Movies.idMovies = planning.Movies_idMovies
-                         LEFT JOIN rooms ON rooms.idRooms = planning.Rooms_idRooms' ;
+                         LEFT JOIN rooms ON rooms.idRooms = planning.Rooms_idRooms ORDER BY idRooms , Day '  ;
 
     require_once 'model/dbConnector.php';
     $queryResult = executeQuerySelect($getUserTypeQuery);

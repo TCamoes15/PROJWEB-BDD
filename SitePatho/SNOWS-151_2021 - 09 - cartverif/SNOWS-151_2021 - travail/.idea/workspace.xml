@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b2ab00-b284-48bf-95b3-e5b3b6546a1d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Patho/controler/controler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/controler/controler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Patho/model/usersManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/model/usersManager.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Patho/view/Planning.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../Patho/view/Planning.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Patho" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -97,6 +99,7 @@
       <workItem from="1623138878119" duration="300000" />
       <workItem from="1623172448925" duration="1185000" />
       <workItem from="1623673397678" duration="1882000" />
+      <workItem from="1623737017951" duration="1377000" />
     </task>
     <servers />
   </component>
@@ -116,10 +119,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1623132324386">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1623737198036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623132324385" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623737198036" />
     <state width="871" height="275" key="GridCell.Tab.0.bottom" timestamp="1622558776023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

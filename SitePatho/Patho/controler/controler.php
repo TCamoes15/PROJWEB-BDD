@@ -102,7 +102,12 @@ function GestionDeCompte(){
 
 function Planning(){
     require_once "model/usersManager.php";
-    $description = recuperatePlanningData();
+    $descriptions = recuperatePlanningData();
+
+    foreach ($descriptions as $description){
+        $movies [$description ['idRooms']] [$description['Day']] = $description['Title'];
+    }
+
     require "view/Planning.php";
 }
 

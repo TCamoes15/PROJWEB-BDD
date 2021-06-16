@@ -21,7 +21,7 @@ ob_clean();
             <div class="PlanningRoom">Salle <?php echo $line ?></div>
 
             <?php for ($day = 1 ; $day <=7; $day++): ?>
-                <div class="PlanningContent"> <img src="view/content/image/gris.jpg"  class="PlanningContentImage"> <?php if(isset($movies[$line][$day])){ echo $movies[$line][$day]; } ?> </div>
+                <div class="PlanningContent"> <img src="<?php if(isset($moviesImage[$line][$day])){ echo $moviesImage[$line][$day];} ?>"  class="PlanningContentImage"> <?php if(isset($movies[$line][$day])){ echo $movies[$line][$day]; } ?> </div>
 
             <?php endfor ?>
         <?php endfor ?>

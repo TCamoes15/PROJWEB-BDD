@@ -105,8 +105,8 @@ function Planning(){
     $descriptions = recuperatePlanningData();
 
     foreach ($descriptions as $description){
-        $movies [$description ['idRooms']] [$description['Day']] = $description['Title']['Image'];
-        
+        $movies [$description ['idRooms']] [$description['Day']] = $description['Title'];
+        $moviesImage  [$description ['idRooms']] [$description['Day']] = $description['Image'];
     }
 
     require "view/Planning.php";

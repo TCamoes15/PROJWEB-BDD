@@ -11,9 +11,9 @@ ob_clean();
                     <div class="card-body">
                         <div class="account-settings">
                             <div class="user-profile">
-                                <h5 class="user-name">Nom</h5>
-                                <h5 class="user-surname">Prénom</h5>
-                                <h6 class="user-email">email@email.com</h6>
+                                <h5 class="user-name"><?php $_SESSION['Nom'] ?> /h5>
+                                <h5 class="user-surname"><?php$_SESSION['Prénom'] ?> </h5>
+                                <h6 class="user-email"><?php$_SESSION['Prénom'] ?></h6>
                             </div>
 
                         </div>

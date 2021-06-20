@@ -84,9 +84,23 @@ Analyse des risques
 
 ### positifs:
 
+| Point Positif                 | Description                                                  |
+| ----------------------------- | ------------------------------------------------------------ |
+| améliorations des compétences | travailler sur le projet nous a aidé à améliorer nos compétences notamment en HTML/CSS,SQL,Bootstrap |
+| site déjà utilisable          | malgré que pas toutes les fonctionnalités n'ont pu être mise en place un Cinéma peut déjà l'utiliser pour  y afficher les films et les horaires |
+|                               |                                                              |
+
 
 
 ### négatifs:
+
+| Point négatif      | Description                                                  |
+| ------------------ | ------------------------------------------------------------ |
+| projet non terminé | nous n'avons malheureusement ni eu le temps ni les compétences pour finir le projet pour la date prévue |
+|                    |                                                              |
+|                    |                                                              |
+
+
 
 ## Difficultés particulières rencontrées
 

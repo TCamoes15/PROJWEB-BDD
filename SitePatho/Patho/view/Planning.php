@@ -17,9 +17,11 @@ ob_clean();
         <div class="PlanningTitle">Samedi</div>
         <div class="PlanningTitle">Dimanche</div>
 
+        // affiche 4 lignes dans lequelles seront crée les case
         <?php for ($line = 1 ; $line <=4 ; $line++) : ?>
             <div class="PlanningRoom">Salle <?php echo $line ?></div>
 
+            // case où seront afficher le titre et une image si le joure correspond
             <?php for ($day = 1 ; $day <=7; $day++): ?>
                 <div class="PlanningContent"> <img src="<?php if(isset($moviesImage[$line][$day])){ echo $moviesImage[$line][$day];} ?>"  class="PlanningContentImage"> <?php if(isset($movies[$line][$day])){ echo $movies[$line][$day]; } ?> </div>
 

@@ -6,6 +6,7 @@ ob_clean();
 
     <div class="filmsPage">
 
+        // affiche des films et leur description depuis la bdd
 
         <?php  foreach ($movies as $movie) :  ?>
 

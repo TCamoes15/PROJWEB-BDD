@@ -4,7 +4,6 @@ ob_start();
 
 ?>
 
-// n'est pas utilisé
 <article>
   <header>
     <h2>Erreur</h2>

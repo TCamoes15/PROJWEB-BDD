@@ -6,7 +6,7 @@ ob_start();
 
     <div class="FormulairePageLogin">
 
-        //login
+
         <div class="row">
             <div class="col-25">
         <form class="formLogin" method='POST' action="index.php?action=login">
@@ -26,7 +26,7 @@ ob_start();
 
         <form class="formRegister" method='POST' action="index.php?action=register">
             <h1 class="InscriptionTitleLogin"> Inscription </h1>
-        //register
+
             <h4 > E-mail</h4>
             <input type="email" placeholder="adresse e-mail" name="inputUserEmailAddress" require>
 

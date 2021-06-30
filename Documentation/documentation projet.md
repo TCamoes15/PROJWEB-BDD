@@ -29,16 +29,40 @@ Objectifs
 
 ## Planification initiale
 
-| Semaines 1-3 | semaines 4-5 | Semaines 6-7 | Semaine 8 |
-| ------------ | ------------ | ------------ | --------- |
-| Sprint 1     | Sprint 2     | Sprint 3     | Sprint 4  |
+Sprint 1
 
+- Choix du sujet
+- MCD
+- MLD
+- Maquettes
+- Logo
+- Analyse préliminaire
+- Création GitHub
+- Création IceScrum
+- Charte Graphique
 
+Sprint 2
+
+- Création du modèle MVC
+- Création page Accueil
+- Création page Films
+- Création page planning
+- Création page login/register
+
+Sprint 3
+
+- Création de la base de donnée
+- ajout du login/register
+- finalisation des documentations
+- ajout des films
+- création page gestion de comptes
+
+Présentation (Semaine COM)
 
 Stratégie de test
 ----
 
-- Les stories seront utilisées pour les tests.
+- Les stories seront utilisées pour les tests. 
 - Les tests seront effectués à la fin de chaque stories et à la fin du projet.
 - L'utilisation des maquettes sera obligatoire pour les tests.
 - Les développeurs testent à chaque fin de story et le PO testera sur la demande des développeurs et fournira une réponse par mail.
@@ -46,13 +70,23 @@ Stratégie de test
 
 ## Journal de bord
 
-|  Semaine 1  | Semaine 2      |  Semaine 3    |  Semaine 4  |    |    |    |    |
-| ----        | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  MCD    | MLD     |  Début du projet (programation)     |    |    |    |    |    |
-|  Document d'Analyse    | Maquettes     |      |  |  |  |  |  |
-|      |      |      |      |      |      |      |      |
-
-
+| Date       | Tâche                         | participant(s)                            |
+| ---------- | ----------------------------- | ----------------------------------------- |
+| 26/04/2021 | Analyse Projet Cinéma         | Mathias,Jean,Tiago                        |
+| 26/04/2021 | Charte Graphique              | Mathias,Jean                              |
+| 11/05/2021 | Validation du MCD par le PO   | Tiago,XCL                                 |
+| 11/05/2021 | maquettes                     | Jean,Mathias,Tiago                        |
+| 11/05/2021 | MLD                           | Jean,Tiago                                |
+| 11/05/2021 | Début documentation Projet    | Mathias,Jean et Tiago                     |
+| 11/05/2021 | Début documentation Technique | Mathias                                   |
+| 18/05/2021 | Logo                          | Mathias                                   |
+| 18/05/2021 | Charte Graphique              | Jean,Mathias                              |
+| 20/05/2021 | Création modèle MVC           | Jean                                      |
+| 02/05/2021 | Sprint 1 Review               | Mathias,Jean,Tiago et XCL                 |
+| 01/06/2021 | Sprint 2 Review               | Mathias,Jean,Tiago et XCL                 |
+| 03/06/2021 | Début base de donnée          | Jean                                      |
+| 20/06/2021 | Finalisation documentation    | Mathias                                   |
+| 21/06/2021 | Présentation du site          | Mathias,Jean,Tiago, XCL, AMR et la classe |
 
 Analyse des risques
 ------
@@ -82,23 +116,15 @@ Analyse des risques
 
 ## Bilan des points positifs / négatifs
 
-### positifs:
-
 | Point Positif                 | Description                                                  |
 | ----------------------------- | ------------------------------------------------------------ |
-| améliorations des compétences | travailler sur le projet nous a aidé à améliorer nos compétences notamment en HTML/CSS,SQL,Bootstrap |
+| améliorations des compétences | travailler sur le projet nous a aidé à améliorer nos compétences notamment en PHP,HTML/CSS,SQL,Bootstrap |
 | site déjà utilisable          | malgré que pas toutes les fonctionnalités n'ont pu être mise en place un Cinéma peut déjà l'utiliser pour  y afficher les films et les horaires |
 |                               |                                                              |
-
-
-
-### négatifs:
 
 | Point négatif      | Description                                                  |
 | ------------------ | ------------------------------------------------------------ |
 | projet non terminé | nous n'avons malheureusement ni eu le temps ni les compétences pour finir le projet pour la date prévue |
-|                    |                                                              |
-|                    |                                                              |
 
 
 
@@ -113,7 +139,6 @@ Analyse des risques
 - Hébergement sur **Swisscenter**
 - Un système de compte qui permet de **réserver une place pour une projection**
 - Pour les admin des **options pour supprimer ou ajouter les films dans le tableau**
-- Une page pour **gérer les informations relatives au compte**
 
 
 

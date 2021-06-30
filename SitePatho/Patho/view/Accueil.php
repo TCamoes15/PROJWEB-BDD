@@ -13,7 +13,7 @@ ob_start();
         <span class="texteSurImageUn ">Envie de voir le meilleur ?<br> </span>
         <span class="texteSurImageDeux ">Cliquez juste ici </span>
 
-        // image + bouton
+
         <a class="logoPlanningAccueil" href=index.php?action=Planning>
             <div class="centerBootstrapAccueil">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="grey"
@@ -31,7 +31,6 @@ ob_start();
 
     </div>
 
-    // affiche des films et leur description depuis la bdd
     <div class="filmsPageAccueil">
         <?php $i=0;
         foreach ($movies as $movie) :

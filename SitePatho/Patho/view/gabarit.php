@@ -6,7 +6,7 @@
 
 <header class = "header">
 
-// header
+
 
     <div class="headerTitle">
         <img src="view/content/image/PathoLogo.png" class="Logo">  <span class="TitleHeaderSize"> Patho </span>
@@ -46,7 +46,7 @@
 </body>
 
 <?=$content; ?>
-// lien fichier
+
 <link rel="stylesheet" href="view/content/gabarit.css" />
 <link rel="stylesheet" href="view/content/Accueil.css" />
 <link rel="stylesheet" href="view/content/Films.css" />
